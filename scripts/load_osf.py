@@ -8,7 +8,7 @@ inclusion_criteria_top1000: tuple = ("inclusion_criteria_top1000.csv", "https://
 included_records: tuple = ("included_records.xlsx", "https://osf.io/ejg9r/download/")
 included_records_active_learning: tuple = ("included_records_active_learning.csv", "https://osf.io/36rhe/download/")
 snowballing: tuple = ("snowballing.csv", "https://osf.io/7c4nf/download/")
-dimensions: tuple = ("dimensions.csv", "https://osf.io/7exc5/download/")
+dimensions: tuple = ("dimensions.xlsx", "https://osf.io/n8qae/download/")
 
 data_subsets = [synergy_replication, comprehensive_search, inclusion_criteria_top1000, included_records, 
                 included_records_active_learning, snowballing, dimensions]
