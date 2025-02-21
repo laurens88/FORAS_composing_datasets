@@ -6,7 +6,7 @@ synergy_replication: tuple = ("synergy_replication.csv", "https://osf.io/yzqf8/d
 comprehensive_search: tuple = ("comprehensive_search.csv", "https://osf.io/4x39f/download/")
 inclusion_criteria_top1000: tuple = ("inclusion_criteria_top1000.csv", "https://osf.io/r8wq3/download/")
 included_records: tuple = ("included_records.xlsx", "https://osf.io/ejg9r/download/")
-included_records_active_learning: tuple = ("included_records_active_learning.csv", "https://osf.io/36rhe/download/")
+included_records_active_learning: tuple = ("included_records_active_learning.xlsx", "https://osf.io/36rhe/download/")
 snowballing: tuple = ("snowballing.csv", "https://osf.io/7c4nf/download/")
 dimensions: tuple = ("dimensions.xlsx", "https://osf.io/n8qae/download/")
 
